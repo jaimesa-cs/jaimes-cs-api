@@ -25,7 +25,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Jaime&apos;s Api Server{" "}
+              Jaime&apos;s Api
               {/* <Image
                 src="/contentstack-logo.png"
                 alt="Contentstack Logo"
@@ -47,7 +47,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://contentsack.com/" className={styles.card} target="_blank" rel="noopener noreferrer">
             <h2 className={inter.className}>
-              Consenstack <span>-&gt;</span>
+              Contenstack <span>-&gt;</span>
             </h2>
             <p className={inter.className}>Find in-depth information about Contentstack features and&nbsp;More.</p>
           </a>
@@ -57,7 +57,7 @@ export default function Home() {
               Learn <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Learn about Contenstack in an interactive course with&nbsp; Contentsack Academy
+              Learn about Contentstack in an interactive course with&nbsp; Contentsack Academy
             </p>
           </a>
 
