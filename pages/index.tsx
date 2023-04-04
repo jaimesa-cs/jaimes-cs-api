@@ -66,7 +66,9 @@ export default function Home() {
             <h2 className={inter.className}>
               Documentation <span>-&gt;</span>
             </h2>
-            <p className={inter.className}>Discover and deploy boilerplate example Next.js&nbsp;projects.</p>
+            <p className={inter.className}>
+              <strong>New to Contentstack?</strong> Use these guides to get started.
+            </p>
           </a>
 
           <a
