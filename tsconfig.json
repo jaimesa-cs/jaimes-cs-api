@@ -18,6 +18,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/index.ori"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "pages/index.ori", "next.config.js"],
   "exclude": ["node_modules"]
 }
